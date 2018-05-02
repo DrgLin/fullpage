@@ -343,9 +343,10 @@ hr {
 }
 
 .fullpage {
-  background-image: url('../images/fullpage.jpg');
+  background-image: url('../images/circleImg04.jpg');
 }
-
+.myapi{ background-image: url('../images/circleImg05.png');
+}
 .footer {
   margin: 0 auto;
   text-align: center;
